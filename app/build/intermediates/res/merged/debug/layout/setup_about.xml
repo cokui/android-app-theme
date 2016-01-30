@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.test.oneactiviymutiscreen.setup.About xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:test="http://schemas.android.com/apk/res/com.test.oneactiviymutiscreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    test:skin_img="bg_listing"
+    >
+</com.test.oneactiviymutiscreen.setup.About>
+<!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/setup_about.xml -->

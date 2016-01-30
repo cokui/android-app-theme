@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="color_key">
+        <item>light_blue</item>
+        <item>black</item>
+        <item>white</item>
+        <item>light_grey</item>
+        <item>gainsboro</item>
+        <item>dark_gray</item>
+        <item>translucent</item>
+        <item>tab_bule</item>
+        <item>red</item>
+    </string-array>
+    <string-array name="image_key">
+        <item>bg_listing</item>
+        <item>btn_displaytop</item>
+        <item>btn_arrowdetail</item>
+        <item>listingelement01</item>
+        <item>listingelement01press</item>
+        <item>displaytop</item>
+    </string-array>
+    <integer-array name="skin1_color">
+        <item>@color/light_blue</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>@color/light_grey</item>
+        <item>@color/gainsboro</item>
+        <item>@color/dark_gray</item>
+        <item>@color/translucent</item>
+        <item>@color/tab_bule</item>
+        <item>@color/red</item>
+    </integer-array>
+    <array name="skin1_image">
+        <item>@drawable/bg_listing</item>
+        <item>@drawable/btn_displaytop</item>
+        <item>@drawable/btn_arrowdetail</item>
+        <item>@drawable/listingelement01</item>
+        <item>@drawable/listingelement01press</item>
+        <item>@drawable/displaytop</item>
+        <item/>
+    </array>
+    <integer-array name="skin2_color">
+        <item>@color/light_blue</item>
+        <item>@color/white</item>
+        <item>@color/black</item>
+        <item>@color/light_grey</item>
+        <item>@color/gainsboro</item>
+        <item>@color/dark_gray</item>
+        <item>@color/translucent</item>
+        <item>@color/tab_bule</item>
+        <item>@color/red</item>
+    </integer-array>
+    <array name="skin2_image">
+        <item>@drawable/bg_listingw</item>
+        <item>@drawable/btn_displaytopw</item>
+        <item>@drawable/btn_arrowdetail</item>
+        <item>@drawable/listingelement01</item>
+        <item>@drawable/listingelement01press</item>
+        <item>@drawable/displaytop</item>
+        <item/>
+    </array>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="string" name="bg_color"/>
+    <attr format="string" name="img_pressed"/>
+    <attr format="string" name="skin_img"/>
+    <attr format="string" name="text_color"/>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="album_text">#ffc0c0c0</color>
+    <color name="black">#000000</color>
+    <color name="bland_color">#ff0d7bb5</color>
+    <color name="dark_gray">#AEAEAE</color>
+    <color name="divider">#ff555555</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="light_blue">#2291D0</color>
+    <color name="light_grey">#828282</color>
+    <color name="list_index">#ffdddddd</color>
+    <color name="pageindicator_back">#ff000000</color>
+    <color name="play_position_color">#ffffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="stroke_color">#ffaaaaaa</color>
+    <color name="tab_bule">#30A7E8</color>
+    <color name="tab_text_disable">#ffa0a0a0</color>
+    <color name="tab_text_enable">#ffffffff</color>
+    <color name="text_color">#ffffffff</color>
+    <color name="translucent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="ImageViewEX"><attr name="skin_img"/><attr name="bg_color"/><attr format="string" name="skin_src"/></declare-styleable>
+    <declare-styleable name="LinearLayoutEx"><attr name="skin_img"/><attr name="bg_color"/><attr name="img_pressed"/></declare-styleable>
+    <declare-styleable name="ViewEX"><attr name="skin_img"/><attr name="bg_color"/><attr name="text_color"/><attr name="img_pressed"/></declare-styleable>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DSD</string>
+    <string name="btn_return">BACK</string>
+    <string name="setup_about">About</string>
+    <string name="setup_list">SETUP</string>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ActivityAnimation" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/open_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/open_exit</item>
+    </style>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="AnimationTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/ActivityAnimation</item>
+    </style>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="MyDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ProgressDialog" parent="android:Theme.Dialog">  
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:windowBackground">@android:color/transparent</item>  
+    </style>
+</resources>

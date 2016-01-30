@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_interpolator">
+    <translate android:fromXDelta="0%" 
+        android:toXDelta="-100%"
+        android:duration="300" 
+        android:fillAfter="true"  
+        android:fillEnabled="true"/>
+</set>
+
+<!-- From: file:/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/anim/open_exit.xml -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.test.oneactiviymutiscreen.widget.RelativeLayoutEx
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:test="http://schemas.android.com/apk/res/com.test.oneactiviymutiscreen"
+    android:layout_width="match_parent"
+    android:layout_height="66px"
+    android:orientation="horizontal"
+    android:clickable="true"
+    android:layout_marginTop="4px"
+    android:layout_marginBottom="4px"
+    android:layout_marginLeft="9px"
+    android:layout_marginRight="9px"
+    android:paddingLeft="30px"
+    android:paddingRight="20px"
+    test:skin_img="listingelement01"
+    >
+    <!--     android:background="@drawable/listingelement01press"
+        test:img_pressed="listingelement01press"
+    
+      -->
+     <com.test.oneactiviymutiscreen.widget.TextViewEx
+        android:id="@+id/text"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="22sp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"  
+        android:layout_marginRight="20px"
+        android:gravity="left|center_vertical"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@color/white">
+     </com.test.oneactiviymutiscreen.widget.TextViewEx>
+     
+         
+     <com.test.oneactiviymutiscreen.widget.ImageViewEx
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="27px"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"  
+        android:gravity="center_vertical"
+        android:src="@drawable/btn_arrowdetail">
+     </com.test.oneactiviymutiscreen.widget.ImageViewEx>  
+    
+     <com.test.oneactiviymutiscreen.widget.TextViewEx
+        android:id="@+id/text_option"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:gravity="right|center_vertical"
+		android:layout_toLeftOf="@+id/btn_next"
+        android:layout_toRightOf="@+id/text"  
+        android:layout_centerVertical="true"  
+        android:ellipsize="end" 
+        android:singleLine="true"
+        android:layout_marginRight="20px"
+        android:textColor="@color/light_grey">
+     </com.test.oneactiviymutiscreen.widget.TextViewEx>
+ 
+</com.test.oneactiviymutiscreen.widget.RelativeLayoutEx>

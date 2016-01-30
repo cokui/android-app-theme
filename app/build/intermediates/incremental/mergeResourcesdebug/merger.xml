@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res"><file name="open_enter" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/anim/open_enter.xml" qualifiers="" type="anim"/><file name="open_exit" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/anim/open_exit.xml" qualifiers="" type="anim"/><file name="bg_listing" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/bg_listing.png" qualifiers="hdpi" type="drawable"/><file name="bg_listingw" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/bg_listingw.png" qualifiers="hdpi" type="drawable"/><file name="btn_arrowdetail" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/btn_arrowdetail.png" qualifiers="hdpi" type="drawable"/><file name="btn_displaytop" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/btn_displaytop.png" qualifiers="hdpi" type="drawable"/><file name="btn_displaytopw" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/btn_displaytopw.png" qualifiers="hdpi" type="drawable"/><file name="displaytop" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/displaytop.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="listingelement01" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/listingelement01.png" qualifiers="hdpi" type="drawable"/><file name="listingelement01press" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/listingelement01press.png" qualifiers="hdpi" type="drawable"/><file name="shadowbottom" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-hdpi/shadowbottom.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="ic_launcher" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="main" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="navigationbar" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/navigationbar.xml" qualifiers="" type="layout"/><file name="setup_about" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/setup_about.xml" qualifiers="" type="layout"/><file name="setup_item_text_arrow" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/setup_item_text_arrow.xml" qualifiers="" type="layout"/><file name="setup_list" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/setup_list.xml" qualifiers="" type="layout"/><file name="setup_main" path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/layout/setup_main.xml" qualifiers="" type="layout"/><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/arrays.xml" qualifiers=""><integer-array name="skin1_color">
+        <item>@color/light_blue</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>@color/light_grey</item>
+        <item>@color/gainsboro</item>
+        <item>@color/dark_gray</item>
+        <item>@color/translucent</item>
+        <item>@color/tab_bule</item>
+        <item>@color/red</item>
+    </integer-array><string-array name="image_key">
+        <item>bg_listing</item>
+        <item>btn_displaytop</item>
+        <item>btn_arrowdetail</item>
+        <item>listingelement01</item>
+        <item>listingelement01press</item>
+        <item>displaytop</item>
+    </string-array><string-array name="color_key">
+        <item>light_blue</item>
+        <item>black</item>
+        <item>white</item>
+        <item>light_grey</item>
+        <item>gainsboro</item>
+        <item>dark_gray</item>
+        <item>translucent</item>
+        <item>tab_bule</item>
+        <item>red</item>
+    </string-array><array name="skin2_image">
+        <item>@drawable/bg_listingw</item>
+        <item>@drawable/btn_displaytopw</item>
+        <item>@drawable/btn_arrowdetail</item>
+        <item>@drawable/listingelement01</item>
+        <item>@drawable/listingelement01press</item>
+        <item>@drawable/displaytop</item>
+        <item/>
+    </array><integer-array name="skin2_color">
+        <item>@color/light_blue</item>
+        <item>@color/white</item>
+        <item>@color/black</item>
+        <item>@color/light_grey</item>
+        <item>@color/gainsboro</item>
+        <item>@color/dark_gray</item>
+        <item>@color/translucent</item>
+        <item>@color/tab_bule</item>
+        <item>@color/red</item>
+    </integer-array><array name="skin1_image">
+        <item>@drawable/bg_listing</item>
+        <item>@drawable/btn_displaytop</item>
+        <item>@drawable/btn_arrowdetail</item>
+        <item>@drawable/listingelement01</item>
+        <item>@drawable/listingelement01press</item>
+        <item>@drawable/displaytop</item>
+        <item/>
+    </array></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/attrs.xml" qualifiers=""><attr format="string" name="img_pressed"/><declare-styleable name="ImageViewEX">
+        <attr name="skin_img"/>
+        <attr name="bg_color"/>
+        <attr format="string" name="skin_src"/>
+    </declare-styleable><attr format="string" name="bg_color"/><attr format="string" name="text_color"/><declare-styleable name="LinearLayoutEx">
+        <attr name="skin_img"/>
+        <attr name="bg_color"/>
+        <attr name="img_pressed"/>
+    </declare-styleable><attr format="string" name="skin_img"/><declare-styleable name="ViewEX">
+        <attr name="skin_img"/>
+        <attr name="bg_color"/>
+        <attr name="text_color"/>
+        <attr name="img_pressed"/>
+    </declare-styleable></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/color.xml" qualifiers=""><color name="light_blue">#2291D0</color><color name="tab_text_disable">#ffa0a0a0</color><color name="red">#FF0000</color><color name="light_grey">#828282</color><color name="pageindicator_back">#ff000000</color><color name="play_position_color">#ffffffff</color><color name="bland_color">#ff0d7bb5</color><color name="divider">#ff555555</color><color name="black">#000000</color><color name="translucent">#00000000</color><color name="text_color">#ffffffff</color><color name="gainsboro">#DCDCDC</color><color name="tab_text_enable">#ffffffff</color><color name="list_index">#ffdddddd</color><color name="dark_gray">#AEAEAE</color><color name="album_text">#ffc0c0c0</color><color name="stroke_color">#ffaaaaaa</color><color name="white">#FFFFFF</color><color name="tab_bule">#30A7E8</color></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">DSD</string><string name="btn_return">BACK</string><string name="setup_list">SETUP</string><string name="setup_about">About</string></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style><style name="ActivityAnimation" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/open_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/open_exit</item>
+    </style></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values/themes.xml" qualifiers=""><style name="Theme.ProgressDialog" parent="android:Theme.Dialog">  
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:windowBackground">@android:color/transparent</item>  
+    </style><style name="MyDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="AnimationTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/ActivityAnimation</item>
+    </style></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/build/generated/res/rs/debug"/><source path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug"><source path="/Users/cokui/Documents/AndroidChinaDevelop/主题/androidTest_dsd_oneActiviyMutiScreen1/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ViewEX"><attr name="skin_img"/><attr name="bg_color"/><attr name="text_color"/><attr name="img_pressed"/></declare-styleable><declare-styleable name="ImageViewEX"><attr name="skin_img"/><attr name="bg_color"/><attr format="string" name="skin_src"/></declare-styleable><declare-styleable name="LinearLayoutEx"><attr name="skin_img"/><attr name="bg_color"/><attr name="img_pressed"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.test.oneactiviymutiscreen.widget.NavigationBar 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:test="http://schemas.android.com/apk/res/com.test.oneactiviymutiscreen"
+    android:layout_width="match_parent"
+    android:layout_height="104px"
+    android:layout_marginBottom="10px"
+    android:layout_marginTop="10px"
+    android:background="@drawable/displaytop">
+
+    <com.test.oneactiviymutiscreen.widget.ButtonEx
+        android:id="@+id/bar_return"
+        android:layout_width="wrap_content"
+        android:layout_height="60px"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20px"
+        android:background="@drawable/btn_displaytop"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textSize="12sp"
+        test:text_color="gainsboro"
+        test:skin_img="btn_displaytop"
+        >
+        
+    </com.test.oneactiviymutiscreen.widget.ButtonEx>
+
+    <com.test.oneactiviymutiscreen.widget.ButtonEx
+        android:id="@+id/bar_next"
+        android:layout_width="wrap_content"
+        android:layout_height="60px"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20px"
+        android:background="@drawable/btn_displaytop"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textSize="12sp"
+        test:text_color="gainsboro"
+        test:skin_img="btn_displaytop"
+        >
+        
+    </com.test.oneactiviymutiscreen.widget.ButtonEx>
+
+    <com.test.oneactiviymutiscreen.widget.TextViewEx
+        android:id="@+id/titlebar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="50px"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_toLeftOf="@+id/bar_next"
+        android:layout_toRightOf="@+id/bar_return"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/white" />
+
+</com.test.oneactiviymutiscreen.widget.NavigationBar>

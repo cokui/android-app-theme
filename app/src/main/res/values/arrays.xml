@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- image key -->
+    <string-array name="image_key">
+        <item>bg_listing</item>
+        <item>btn_displaytop</item>
+        <item>btn_arrowdetail</item>
+        <item>listingelement01</item>
+        <item>listingelement01press</item>
+        <item>displaytop</item>
+    </string-array>
+    
+    <!-- skin1_image -->
+    <array name="skin1_image">
+        <item>@drawable/bg_listing</item>
+        <item>@drawable/btn_displaytop</item>
+        <item>@drawable/btn_arrowdetail</item>
+        <item>@drawable/listingelement01</item>
+        <item>@drawable/listingelement01press</item>
+        <item>@drawable/displaytop</item>
+        <item></item>
+    </array>
+    
+    
+    <!-- skin2_image -->
+    <array name="skin2_image">
+        <item>@drawable/bg_listingw</item>
+        <item>@drawable/btn_displaytopw</item>
+        <item>@drawable/btn_arrowdetail</item>
+        <item>@drawable/listingelement01</item>
+        <item>@drawable/listingelement01press</item>
+        <item>@drawable/displaytop</item>
+        <item></item>
+    </array>
+
+    <!-- color key -->
+    <string-array name="color_key">
+        <item>light_blue</item>
+        <item>black</item>
+        <item>white</item>
+        <item>light_grey</item>
+        <item>gainsboro</item>
+        <item>dark_gray</item>
+        <item>translucent</item>
+        <item>tab_bule</item>
+        <item>red</item>
+    </string-array>
+	<!-- skin1_color -->
+    <integer-array name="skin1_color">
+        <item>@color/light_blue</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>@color/light_grey</item>
+        <item>@color/gainsboro</item>
+        <item>@color/dark_gray</item>
+        <item>@color/translucent</item>
+        <item>@color/tab_bule</item>
+        <item>@color/red</item>
+    </integer-array>
+    
+    <!-- skin2_color -->
+    <integer-array name="skin2_color">
+        <item>@color/light_blue</item>
+        <item>@color/white</item>
+        <item>@color/black</item>
+        <item>@color/light_grey</item>
+        <item>@color/gainsboro</item>
+        <item>@color/dark_gray</item>
+        <item>@color/translucent</item>
+        <item>@color/tab_bule</item>
+        <item>@color/red</item>
+    </integer-array>
+
+</resources>

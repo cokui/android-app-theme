@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="skin_img" format="string" />
+    <attr name="bg_color" format="string" />
+    <attr name="text_color" format="string" />
+    <attr name="img_pressed" format="string" />
+
+    <declare-styleable name="ViewEX">
+        <attr name="skin_img" />
+        <attr name="bg_color" />
+        <attr name="text_color" />
+        <attr name="img_pressed" />
+    </declare-styleable>
+    <declare-styleable name="ImageViewEX">
+        <attr name="skin_img" />
+        <attr name="bg_color" />
+        <attr name="skin_src" format="string" />
+    </declare-styleable>
+    <declare-styleable name="LinearLayoutEx">
+        <attr name="skin_img" />
+        <attr name="bg_color" />
+        <attr name="img_pressed" />
+    </declare-styleable>
+
+</resources>
